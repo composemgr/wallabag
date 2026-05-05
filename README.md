@@ -51,9 +51,9 @@ See `docker-compose.yaml` for complete list of configurable options.
 
 ## 📂 Volumes
 
-- `./rootfs/data/wallabag` - Data storage
-- `./rootfs/config/wallabag` - Data storage
-- `./rootfs/data/db/postgres/wallabag` - Data storage
+- `./volumes/data/wallabag` - Data storage
+- `./volumes/config/wallabag` - Data storage
+- `./volumes/data/db/postgres/wallabag` - Data storage
 
 ## 🔐 Security
 
